@@ -1,0 +1,64 @@
+@book{citeulike:969185,
+	author = {Arrow, Kenneth J.},
+	citeulike-article-id = {969185},
+	citeulike-linkout-0 = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20\&amp;path=ASIN/0300013647},
+	citeulike-linkout-1 = {http://www.amazon.de/exec/obidos/redirect?tag=citeulike01-21\&amp;path=ASIN/0300013647},
+	citeulike-linkout-2 = {http://www.amazon.fr/exec/obidos/redirect?tag=citeulike06-21\&amp;path=ASIN/0300013647},
+	citeulike-linkout-3 = {http://www.amazon.jp/exec/obidos/ASIN/0300013647},
+	citeulike-linkout-4 = {http://www.amazon.co.uk/exec/obidos/ASIN/0300013647/citeulike00-21},
+	citeulike-linkout-5 = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0300013647},
+	citeulike-linkout-6 = {http://www.worldcat.org/isbn/0300013647},
+	citeulike-linkout-7 = {http://books.google.com/books?vid=ISBN0300013647},
+	citeulike-linkout-8 = {http://www.amazon.com/gp/search?keywords=0300013647\&index=books\&linkCode=qs},
+	citeulike-linkout-9 = {http://www.librarything.com/isbn/0300013647},
+	day = {10},
+	edition = {2nd},
+	howpublished = {Paperback},
+	isbn = {0300013647},
+	keywords = {choice; economics; social; welfare},
+	month = sep,
+	posted-at = {2007-06-16 01:35:50},
+	priority = {2},
+	publisher = {Yale University Press},
+	title = {Social Choice and Individual Values, Second edition (Cowles Foundation Monographs Series)},
+	url = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0300013647},
+	year = {1970}
+}
+
+@book{price2016psychometric,
+	author = {Price, Larry R},
+	title = {Psychometric methods: Theory into practice},
+	year = {2016}
+}
+
+@book{borg2005modern,
+	author = {Borg, Ingwer and Groenen, Patrick JF},
+	publisher = {Springer Science \& Business Media},
+	title = {Modern multidimensional scaling: Theory and applications},
+	year = {2005}
+}
+
+@article{souza1988metodos,
+	author = {Souza, J de},
+	journal = {M{\'e}todos Estat\'{\i}sticos nas Ci{\^e}ncias Psicossociais. Vol. V: M{\'e}todos de escalagem psicossocial: Uni e Multidimensional},
+	publisher = {Thesaurus Bras\'{\i}lia},
+	title = {M{\'e}todos Estat\'{\i}sticos nas Ci{\^e}ncias Psicossociais. Vol. V-M{\'e}todos de escalagem psicossocial: Uni e Multidimensinal},
+	year = {1988}
+}
+
+@book{tanguiane2012aggregation,
+	author = {Tanguiane, Andranick S},
+	publisher = {Springer Science \& Business Media},
+	title = {Aggregation and representation of preferences: introduction to mathematical theory of democracy},
+	year = {2012}
+}
+
+@article{thustone1927law,
+	author = {Thustone, LL},
+	journal = {Pschological Review},
+	pages = {273--286},
+	title = {A law of comparative judgement},
+	volume = {34},
+	year = {1927}
+}
+
