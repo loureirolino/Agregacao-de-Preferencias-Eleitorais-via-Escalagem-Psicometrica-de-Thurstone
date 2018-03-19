@@ -1,0 +1,54 @@
+@book{arrow2012social,
+	author = {Arrow, Kenneth J},
+	publisher = {Yale university press},
+	title = {Social choice and individual values},
+	volume = {12},
+	year = {2012}
+}
+
+@book{price2016psychometric,
+	author = {Price, Larry R},
+	title = {Psychometric methods: Theory into practice},
+	year = {2016}
+}
+
+@book{borg2005modern,
+	author = {Borg, Ingwer and Groenen, Patrick JF},
+	publisher = {Springer Science \& Business Media},
+	title = {Modern multidimensional scaling: Theory and applications},
+	year = {2005}
+}
+
+@article{souza1988metodos,
+	author = {Souza, J de},
+	journal = {M{\'e}todos Estat\'{\i}sticos nas Ci{\^e}ncias Psicossociais. Vol. V: M{\'e}todos de escalagem psicossocial: Uni e Multidimensional},
+	publisher = {Thesaurus Bras\'{\i}lia},
+	title = {M{\'e}todos Estat\'{\i}sticos nas Ci{\^e}ncias Psicossociais. Vol. V-M{\'e}todos de escalagem psicossocial: Uni e Multidimensinal},
+	year = {1988}
+}
+
+@book{tanguiane2012aggregation,
+	author = {Tanguiane, Andranick S},
+	publisher = {Springer Science \& Business Media},
+	title = {Aggregation and Representation of Preferences: Introduction to Mathematical Theory of Democracy},
+	year = {2012}
+}
+
+@article{thustone1927law,
+	author = {Thustone, LL},
+	journal = {Pschological Review},
+	pages = {273--286},
+	title = {A law of comparative judgement},
+	volume = {34},
+	year = {1927}
+}
+
+@Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2018},
+    url = {https://www.R-project.org/},
+  }
+
