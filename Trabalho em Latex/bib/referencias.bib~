@@ -1,6 +1,10 @@
+% This BibTeX bibliography file was created using KBibTeX.
+% Created for Lucas Loureiro Lino da Costa at 2018-07-01
+% Saved with string encoding Unicode (UTF-8) 
+
 @book{arrow2012social,
 	author = {Arrow, Kenneth J},
-	publisher = {Yale university press},
+	publisher = {Yale University Press},
 	title = {Social choice and individual values},
 	volume = {12},
 	year = {2012}
@@ -34,8 +38,8 @@
 	year = {2012}
 }
 
-@article{thustone1927law,
-	author = {Thustone, LL},
+@article{thurstone1927law,
+	author = {Thurstone, LL},
 	journal = {Pschological Review},
 	pages = {273--286},
 	title = {A law of comparative judgement},
@@ -43,6 +47,7 @@
 	year = {1927}
 }
 
+<<<<<<< Updated upstream:Trabalho em Latex/bib/referencias.bib~
 @Manual{,
     title = {R: A Language and Environment for Statistical Computing},
     author = {{R Core Team}},
@@ -52,3 +57,48 @@
     url = {https://www.R-project.org/},
   }
 
+=======
+@manual{EmptyId_R,
+	address = {Vienna, Austria},
+	author = {{R Core Team}},
+	organization = {R Foundation for Statistical Computing},
+	title = {R: A Language and Environment for Statistical Computing},
+	url = {https://www.R-project.org/},
+	year = {2018}
+}
+
+@misc{Lucas2018,
+	author = {Costa, Lucas Loureiro Lino da},
+	howpublished = {\url{https://github.com/loureirolino/Agregacao-de-Preferencias-Eleitorais-via-Escalagem-Psicometrica-de-Thurstone}},
+	journal = {GitHub Repository},
+	publisher = {GitHub},
+	title = {Agrega{\c c}{\~a}o de Prefer{\^e}ncias Eleitorais via Escalagem Psicom{\'e}trica de Thurstone,},
+    year = {2018}
+}
+
+@techreport{anuariounb,
+	author = {Fundação Universidade de Brasília},
+	month = oct,
+	series = {Anuário Estatístico da UnB},
+	title = {Anuário Estatístico da UnB 2017 - Período: 2012 a 2016},
+	year = {2017}
+}
+
+@article{edwards1946comparison,
+  title={A comparison of the Thurstone and Likert techniques of attitude scale construction.},
+  author={Edwards, Allen L and Kenney, Kathryn Claire},
+  journal={Journal of Applied Psychology},
+  volume={30},
+  number={1},
+  pages={72},
+  year={1946},
+  publisher={American Psychological Association}
+}
+
+@techreport{marques2011brazilian,
+  title={Brazilian 2010 presidential election: psychometric scaling of voting intention},
+  author={Marques, Isabel and Pe{\~n}aloza, Rodrigo and others},
+  year={2011},
+  institution={Departamento de Economia da Universidade de Brasilia}
+}
+>>>>>>> Stashed changes:Trabalho em Latex/referencias.bib

@@ -1,0 +1,60 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Arrow 2012]{arrow2012social}
+\abntrefinfo{Arrow}{ARROW}{2012}
+{ARROW, K.~J. \emph{Social choice and individual values}. [S.l.]: Yale
+  University Press, 2012. v.~12.}
+
+\bibitem[Borg e Groenen 2005]{borg2005modern}
+\abntrefinfo{Borg e Groenen}{BORG; GROENEN}{2005}
+{BORG, I.; GROENEN, P.~J. \emph{Modern multidimensional scaling: Theory and
+  applications}. [S.l.]: Springer Science \& Business Media, 2005.}
+
+\bibitem[Brasília 2017]{anuariounb}
+\abntrefinfo{Brasília}{BRASíLIA}{2017}
+{BRASíLIA, F.~U. de. \emph{Anuário Estatístico da UnB 2017 - Período: 2012
+  a 2016}.
+[S.l.], 2017.  (Anuário Estatístico da UnB).}
+
+\bibitem[Costa 2018]{Lucas2018}
+\abntrefinfo{Costa}{COSTA}{2018}
+{COSTA, L. L. L.~d. \emph{Agrega{\c c}{\~a}o de Prefer{\^e}ncias Eleitorais via
+  Escalagem Psicom{\'e}trica de Thurstone,}. [S.l.]: GitHub, 2018.
+  \url{https://github.com/loureirolino/Agregacao-de-Preferencias-Eleitorais-via-Escalagem-Psicometrica-de-Thurstone}.}
+
+\bibitem[Marques, Pe{\~n}aloza et al. 2011]{marques2011brazilian}
+\abntrefinfo{Marques, Pe{\~n}aloza et al.}{MARQUES; PE{\~N}ALOZA et al.}{2011}
+{MARQUES, I.; PE{\~N}ALOZA, R. et al. \emph{Brazilian 2010 presidential
+  election: psychometric scaling of voting intention}.
+[S.l.], 2011.}
+
+\bibitem[{R Core Team} 2018]{EmptyId_R}
+\abntrefinfo{{R Core Team}}{{R Core Team}}{2018}
+{{R Core Team}. \emph{R: A Language and Environment for Statistical Computing}.
+Vienna, Austria, 2018. Dispon{\'\i}vel em: \url{https://www.R-project.org/}.}
+
+\bibitem[Souza 1988]{souza1988metodos}
+\abntrefinfo{Souza}{SOUZA}{1988}
+{SOUZA, J.~d. M{\'e}todos estat\'{\i}sticos nas ci{\^e}ncias psicossociais.
+  vol. v-m{\'e}todos de escalagem psicossocial: Uni e multidimensinal.
+\emph{M{\'e}todos Estat\'{\i}sticos nas Ci{\^e}ncias Psicossociais. Vol. V:
+  M{\'e}todos de escalagem psicossocial: Uni e Multidimensional}, Thesaurus
+  Bras\'{\i}lia, 1988.}
+
+\bibitem[Tanguiane 2012]{tanguiane2012aggregation}
+\abntrefinfo{Tanguiane}{TANGUIANE}{2012}
+{TANGUIANE, A.~S. \emph{Aggregation and Representation of Preferences:
+  Introduction to Mathematical Theory of Democracy}. [S.l.]: Springer Science
+  \& Business Media, 2012.}
+
+\bibitem[Thurstone 1927]{thurstone1927law}
+\abntrefinfo{Thurstone}{THURSTONE}{1927}
+{THURSTONE, L. A law of comparative judgement.
+\emph{Pschological Review}, v.~34, p. 273--286, 1927.}
+
+\end{thebibliography}
